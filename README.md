@@ -8,6 +8,8 @@
 ![Mirror](https://img.shields.io/badge/Mirror-Networking-orange?style=for-the-badge)
 ![ProjectMER](https://img.shields.io/badge/ProjectMER-Schematics-blue?style=for-the-badge)
 
+![Preview](images/1.png)
+
 **Commercial SCP: Secret Laboratory Custom Role Showcase**
 
 </div>
