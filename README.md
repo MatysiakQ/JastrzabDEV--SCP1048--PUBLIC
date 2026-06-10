@@ -1,226 +1,60 @@
 # SCP-1048 (Builder Bear)
 
-<div align="center">
+> Commercial Custom Role for SCP: Secret Laboratory
 
-![C#](https://img.shields.io/badge/C%23-.NET%20Framework%204.8-512BD4?style=for-the-badge)
-![EXILED](https://img.shields.io/badge/EXILED-Custom%20Plugin-green?style=for-the-badge)
-![Unity](https://img.shields.io/badge/Unity-Game%20Engine-black?style=for-the-badge)
-![Mirror](https://img.shields.io/badge/Mirror-Networking-orange?style=for-the-badge)
-![ProjectMER](https://img.shields.io/badge/ProjectMER-Schematics-blue?style=for-the-badge)
+A premium SCP:SL gameplay expansion introducing a fully playable SCP-1048 entity with custom animations, audio systems, multiplayer synchronization, unique abilities, and a dedicated custom schematic.
 
-![Preview](images/1.png)
-
-**Commercial SCP: Secret Laboratory Custom Role Showcase**
-
-</div>
+Developed as a commercial project for multiplayer SCP: Secret Laboratory servers.
 
 ---
 
-# Overview
+## Project Showcase
 
-SCP-1048 (Builder Bear) is a commercial custom role plugin developed for SCP: Secret Laboratory using C# and the EXILED plugin framework.
-
-The project introduces a fully playable SCP-1048 entity featuring custom animations, audio integration, gameplay abilities, synchronized schematic representation, and server-side gameplay logic.
-
-This repository serves as a technical showcase of the project.
-
-> Source code is private due to commercial and intellectual property reasons.
+<p align="center">
+  <img src="images/1.png" alt="SCP-1048 Banner">
+</p>
 
 ---
 
-# Features
+## Video Demonstration
 
-## Custom SCP-1048 Role
-
-- Custom SCP role implementation
-- Automatic round-start spawning system
-- Custom health and combat configuration
-- Custom spawn broadcast
-
-## Ability System
-
-### Dash Ability
-
-- Configurable cooldown
-- Configurable damage
-- Collision detection
-- Impact handling
-- Temporary movement boost
-- Temporary stun after impact
-
-### Wave Emote
-
-- Dedicated player-triggered emote
-- Animation playback
-- Audio playback
-
-## Animation System
-
-Supported animation states:
-
-- Idle
-- Walk
-- Attack
-- Dash
-- Dash Impact
-- Wave
-- Death
-
-## Audio System
-
-- Spatial audio playback
-- Random ambient sounds
-- Attack sounds
-- Dash sounds
-- Death sounds
-- Greeting sounds
-- Configurable audio volume
+[Watch Gameplay Showcase](https://youtu.be/Df6faoootxg)
 
 ---
 
-# Tech Stack
+## Screenshots
 
-## Core
+### Screenshot1
 
-- C#
-- .NET Framework 4.8
+![Screenshot](images/Misiek3.png)
 
-## SCP:SL Frameworks
+### Screenshot2
 
-- EXILED
-- Exiled.CustomRoles
-- Exiled.Events
+![Screenshot](images/misiek1.png)
 
-## Game Engine
+### Screenshot3
 
-- Unity
-
-## Object & Schematic Systems
-
-- ProjectMER
-
-## Audio
-
-- AudioPlayerApi
+![Screenshot](images/Misiek2png)
 
 ---
 
-## Plugin
+## Project Overview
 
-Responsible for:
+SCP-1048 transforms the standard SCP:SL experience by introducing a completely custom playable character built around a dedicated schematic, custom gameplay mechanics, synchronized animations, and immersive audio feedback.
 
-- plugin initialization
-- event registration
-- custom role registration
-- keybind registration
+The goal was to create a role that feels visually distinct while remaining fully integrated into multiplayer gameplay.
 
-## Custom Role
+### Key Features
 
-Responsible for:
-
-- SCP-1048 role lifecycle
-- player setup
-- spawning logic
-- cleanup logic
-
----
-
-# Project Gallery
-
-## Gameplay Screenshots
-
-### Screenshot 1
-
-![Screenshot 1](images/Misiek2.png)
-
-### Screenshot 2
-
-![Screenshot 2](images/misiek1.png)
-
-### Screenshot 3
-
-![Screenshot 3](images/Misiek3.png)
-
----
-
-# Demonstration
-
-## Video Showcase
-
-[Watch Gameplay Demo](https://youtu.be/Df6faoootxg)
-
----
-
-# Development Journey
-
-This project was created as a commercial custom role solution for SCP: Secret Laboratory.
-
-The main development goals included:
-
-- creating a fully playable SCP-1048 role
-- integrating a custom schematic-based character representation
-- implementing synchronized animations
-- creating unique gameplay abilities
-- integrating custom audio systems
-- supporting multiplayer gameplay environments
-
-The project also involved the creation and integration of a dedicated SCP-1048 schematic/model used by the role.
-
----
-
-
-## Requirements
-
-- SCP: Secret Laboratory Dedicated Server
-- EXILED
-- ProjectMER
-- AudioPlayerApi
-
----
-
-# CI/CD
-
-Avaible on Ko-Fi
-
----
-
-# Security Features
-
-Role assignment and ability execution are controlled through server-side plugin logic.
-
----
-
-# Source Code Availability
-
-Source code is private due to commercial and intellectual property reasons.
-
-This repository serves as a portfolio and technical showcase of the project.
-
----
-
-# Authors
-
-**Adam Jastrzębski**
-
-Software Developer
-
-[![GitHub](https://img.shields.io/badge/GitHub-MatysiakQ-181717?style=for-the-badge&logo=github)](https://github.com/MatysiakQ)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adam_Jastrzębski-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adamjastrzebski/)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-adamjastrzebski.bio-4CAF50?style=for-the-badge&logo=googlechrome)](https://adamjastrzebski.bio/)
-
-[![ko-fi](https://img.shields.io/badge/ko--fi-buy-ff5f5f?logo=ko-fi&style=for-the-badge)](https://ko-fi.com/jastrzabdev)
-
----
-
-# Acknowledgements
-
-- SCP: Secret Laboratory
-- EXILED Framework
-- ProjectMER
-- Mirror Networking
-- AudioPlayerApi
-- Unity
+- Custom SCP-1048 role
+- Dedicated custom schematic/model
+- Fully animated character
+- Dash ability with collision detection
+- Wave emote system
+- Spatial audio integration
+- Custom attack handling
+- Configurable balancing options
+- RemoteAdmin integration
+- Multiplayer synchronization
 
 ---
