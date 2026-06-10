@@ -79,5 +79,5 @@ The goal was to create a role that feels visually distinct while remaining fully
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-adamjastrzebski.bio-4CAF50?style=for-the-badge&logo=googlechrome)](https://adamjastrzebski.bio/)
 
-[![Ko-fi](https://shields.io)](https://ko-fi.com/jastrzabdev)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20Me-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/jastrzabdev)
 
