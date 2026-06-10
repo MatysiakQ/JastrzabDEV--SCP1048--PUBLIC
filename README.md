@@ -1,6 +1,16 @@
 # SCP-1048 (Builder Bear)
 
-> Commercial Custom Role for SCP: Secret Laboratory
+<div align="center">
+
+![C#](https://img.shields.io/badge/C%23-.NET%20Framework%204.8-512BD4?style=for-the-badge)
+![EXILED](https://img.shields.io/badge/EXILED-Custom%20Plugin-green?style=for-the-badge)
+![Unity](https://img.shields.io/badge/Unity-Game%20Engine-black?style=for-the-badge)
+![Mirror](https://img.shields.io/badge/Mirror-Networking-orange?style=for-the-badge)
+![ProjectMER](https://img.shields.io/badge/ProjectMER-Schematics-blue?style=for-the-badge)
+
+**Commercial SCP: Secret Laboratory Custom Role Showcase**
+
+</div>
 
 A premium SCP:SL gameplay expansion introducing a fully playable SCP-1048 entity with custom animations, audio systems, multiplayer synchronization, unique abilities, and a dedicated custom schematic.
 
