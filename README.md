@@ -161,7 +161,7 @@ Responsible for:
 
 ## Video Showcase
 
-[Watch Gameplay Demo](YOUR_YOUTUBE_LINK_HERE)
+[Watch Gameplay Demo](https://youtu.be/Df6faoootxg)
 
 ---
 
