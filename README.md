@@ -44,7 +44,7 @@ Developed as a commercial project for multiplayer SCP: Secret Laboratory servers
 
 ### Screenshot3
 
-![Screenshot](images/Misiek2png)
+![Screenshot](images/Misiek2.png)
 
 ---
 
