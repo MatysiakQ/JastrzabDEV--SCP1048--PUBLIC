@@ -109,10 +109,6 @@ Custom keybind integration through Server Specific Settings:
 
 - Unity
 
-## Multiplayer
-
-- Mirror
-
 ## Object & Schematic Systems
 
 - ProjectMER
@@ -121,15 +117,7 @@ Custom keybind integration through Server Specific Settings:
 
 - AudioPlayerApi
 
-## Utility Libraries
-
-- MEC
-
 ---
-
-# Architecture
-
-The plugin is organized around four primary components:
 
 ## Plugin
 
@@ -148,28 +136,6 @@ Responsible for:
 - player setup
 - spawning logic
 - cleanup logic
-
-## Controller
-
-Responsible for:
-
-- animation control
-- ability execution
-- audio playback
-- schematic synchronization
-- cooldown management
-
-## Event Handlers
-
-Responsible for:
-
-- round events
-- damage handling
-- death handling
-- disconnect handling
-- ragdoll management
-
----
 
 ---
 
@@ -216,7 +182,6 @@ The project also involved the creation and integration of a dedicated SCP-1048 s
 
 ---
 
-# Installation
 
 ## Requirements
 
@@ -224,73 +189,6 @@ The project also involved the creation and integration of a dedicated SCP-1048 s
 - EXILED
 - ProjectMER
 - AudioPlayerApi
-
-## Plugin Installation
-
-Place:
-
-```text
-SCP1048Plugin.dll
-```
-
-inside:
-
-```text
-EXILED/Plugins
-```
-
-## Additional Assets
-
-Required assets include:
-
-```text
-Audio/
-SCP-1048 schematic files
-```
-
----
-
-# Configuration
-
-Example configurable settings:
-
-```yaml
-SpawnChance
-Health
-
-PrimaryAttackDamage
-
-DashDamage
-DashCooldown
-DashDuration
-DashStunDuration
-
-AudioVolume
-
-EnableRandomSounds
-RandomSoundIntervalMin
-RandomSoundIntervalMax
-```
-
----
-
-# API Overview
-
-## RemoteAdmin Commands
-
-### Spawn SCP-1048
-
-```text
-scp1048 give <player>
-```
-
-### Remove SCP-1048
-
-```text
-scp1048 remove <player>
-```
-
----
 
 # Technical Highlights
 
@@ -334,52 +232,17 @@ Extensive usage of:
 
 Not publicly available.
 
-Testing details are not included in this repository.
-
 ---
 
 # CI/CD
 
-Not present in repository.
+Avaible on Ko-Fi
 
 ---
 
 # Security Features
 
 Role assignment and ability execution are controlled through server-side plugin logic.
-
-No additional security mechanisms are publicly documented.
-
----
-
-# Future Improvements
-
-Potential future improvements:
-
-- additional abilities
-- expanded emote system
-- additional SCP-1048 variants
-- visual effect enhancements
-- configurable animation packs
-- extended administration tooling
-
----
-
-# What I Learned
-
-This project provided practical experience with:
-
-- C#
-- Unity ecosystem integrations
-- EXILED plugin development
-- multiplayer gameplay systems
-- event-driven architecture
-- custom role development
-- animation control systems
-- audio integration
-- coroutine-based programming
-- configuration-driven systems
-- game entity lifecycle management
 
 ---
 
