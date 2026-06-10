@@ -168,11 +168,4 @@ The plugin is distributed commercially.
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20Me-FF5E5B?style=for-the-badge\&logo=kofi\&logoColor=white)](https://ko-fi.com/jastrzabdev)
 
 ---
-
-### Support Development
-
-If you enjoy my work and would like to support future projects:
-
-☕ https://ko-fi.com/jastrzabdev
-
 </div>
