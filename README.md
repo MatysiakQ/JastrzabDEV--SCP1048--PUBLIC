@@ -171,43 +171,6 @@ Responsible for:
 
 ---
 
-# Application Flow
-
-```text
-Round Start
-     │
-     ▼
-Spawn Chance Check
-     │
-     ▼
-SCP-1048 Assigned
-     │
-     ▼
-Custom Role Spawn
-     │
-     ▼
-Controller Initialization
-     │
-     ├── Animation System
-     ├── Audio System
-     ├── Keybind System
-     └── Schematic Synchronization
-     │
-     ▼
-Gameplay Loop
-     │
-     ├── Dash Ability
-     ├── Attack Logic
-     ├── Emotes
-     └── Audio Events
-     │
-     ▼
-Death / Removal
-     │
-     ▼
-Cleanup
-```
-
 ---
 
 # Project Gallery
@@ -216,15 +179,15 @@ Cleanup
 
 ### Screenshot 1
 
-![Screenshot 1](images/screenshot1.png)
+![Screenshot 1](images/misiek2.png)
 
 ### Screenshot 2
 
-![Screenshot 2](images/screenshot2.png)
+![Screenshot 2](images/misiek1png)
 
 ### Screenshot 3
 
-![Screenshot 3](images/screenshot3.png)
+![Screenshot 3](images/misiek3.png)
 
 ---
 
@@ -329,14 +292,6 @@ scp1048 remove <player>
 
 ---
 
-# Database Design
-
-Not applicable.
-
-No database usage is present in the repository.
-
----
-
 # Technical Highlights
 
 ## Custom Role Lifecycle
@@ -372,56 +327,6 @@ Extensive usage of:
 - round events
 - combat events
 - death events
-
----
-
-# Repository Contents
-
-```text
-Audio/
-Config.cs
-EventHandlers.cs
-Plugin.cs
-Scp1048Command.cs
-Scp1048Controller.cs
-Scp1048Role.cs
-Translation.cs
-LICENSE.txt
-```
-
----
-
-# Project Structure
-
-```text
-SCP1048Plugin
-│
-├── Audio/
-│   ├── DzwiekSmierci.ogg
-│   ├── Hi.ogg
-│   ├── smiech1.ogg
-│   ├── smiech2.ogg
-│   ├── smiech3.ogg
-│   ├── smiech4.ogg
-│   ├── smiech5.ogg
-│   ├── smiechponozu.ogg
-│   ├── startszarzy.ogg
-│   └── wbicie_noza.ogg
-│
-├── Config.cs
-├── EventHandlers.cs
-├── Plugin.cs
-├── Scp1048Command.cs
-├── Scp1048Controller.cs
-├── Scp1048Role.cs
-├── Translation.cs
-│
-├── REFERENCES/
-│
-├── LICENSE.txt
-├── SCP1048Plugin.csproj
-└── SCP1048Plugin.slnx
-```
 
 ---
 
@@ -498,7 +403,7 @@ Software Developer
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-adamjastrzebski.bio-4CAF50?style=for-the-badge&logo=googlechrome)](https://adamjastrzebski.bio/)
 
-[![ko-fi](https://img.shields.io/badge/ko--fi-donate-ff5f5f?logo=ko-fi&style=for-the-badge)](https://ko-fi.com/jastrzabdev)
+[![ko-fi](https://img.shields.io/badge/ko--fi-buy-ff5f5f?logo=ko-fi&style=for-the-badge)](https://ko-fi.com/jastrzabdev)
 
 ---
 
