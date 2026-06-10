@@ -76,22 +76,6 @@ Supported animation states:
 - Greeting sounds
 - Configurable audio volume
 
-## Administration Commands
-
-RemoteAdmin commands:
-
-```text
-scp1048 give <player>
-scp1048 remove <player>
-```
-
-## Player Controls
-
-Custom keybind integration through Server Specific Settings:
-
-- Dash
-- Wave Emote
-
 ---
 
 # Tech Stack
@@ -147,15 +131,15 @@ Responsible for:
 
 ### Screenshot 1
 
-![Screenshot 1](images/misiek2.png)
+![Screenshot 1](images/Misiek2.png)
 
 ### Screenshot 2
 
-![Screenshot 2](images/misiek1png)
+![Screenshot 2](images/misiek1.png)
 
 ### Screenshot 3
 
-![Screenshot 3](images/misiek3.png)
+![Screenshot 3](images/Misiek3.png)
 
 ---
 
@@ -191,48 +175,6 @@ The project also involved the creation and integration of a dedicated SCP-1048 s
 - EXILED
 - ProjectMER
 - AudioPlayerApi
-
-# Technical Highlights
-
-## Custom Role Lifecycle
-
-Custom role registration and removal using EXILED CustomRoles.
-
-## Schematic-Based Character Representation
-
-Uses ProjectMER schematics for custom SCP visual representation.
-
-## Animation State Management
-
-Server-side animation control through schematic animation controllers.
-
-## Spatial Audio System
-
-AudioPlayerApi integration with configurable volume and event-driven playback.
-
-## Coroutine-Based Systems
-
-Uses MEC coroutines for:
-
-- delayed execution
-- cooldown logic
-- audio scheduling
-- cleanup operations
-
-## Event-Driven Gameplay
-
-Extensive usage of:
-
-- player events
-- round events
-- combat events
-- death events
-
----
-
-# Testing
-
-Not publicly available.
 
 ---
 
