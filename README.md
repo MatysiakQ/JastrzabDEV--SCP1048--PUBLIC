@@ -7,6 +7,7 @@
 ![Unity](https://img.shields.io/badge/Unity-Game%20Engine-black?style=for-the-badge)
 ![Mirror](https://img.shields.io/badge/Mirror-Networking-orange?style=for-the-badge)
 ![ProjectMER](https://img.shields.io/badge/ProjectMER-Schematics-blue?style=for-the-badge)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20Me-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/jastrzabdev)
 
 **Commercial SCP: Secret Laboratory Custom Role Showcase**
 
