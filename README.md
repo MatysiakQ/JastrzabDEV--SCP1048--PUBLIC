@@ -68,3 +68,16 @@ The goal was to create a role that feels visually distinct while remaining fully
 - Multiplayer synchronization
 
 ---
+
+## Author
+
+### Adam Jastrzębski
+
+[![GitHub](https://img.shields.io/badge/GitHub-MatysiakQ-181717?style=for-the-badge&logo=github)](https://github.com/MatysiakQ)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adam_Jastrzębski-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adamjastrzebski/)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-adamjastrzebski.bio-4CAF50?style=for-the-badge&logo=googlechrome)](https://adamjastrzebski.bio/)
+
+[![Ko-fi](https://shields.io)](https://ko-fi.com/jastrzabdev)
+
